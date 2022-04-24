@@ -75,6 +75,13 @@ body {
     padding: 10px;
 }
 
+.calendar-hours {
+    color: var(--color-txt);
+    text-align: right;
+    padding: 0 10px;
+    font-weight: 700;
+}
+
 .calendar-body {
     padding: 10px;
 }
